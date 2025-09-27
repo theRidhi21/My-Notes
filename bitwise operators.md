@@ -1,6 +1,6 @@
 ## Bitwise Operators :
 > &,/,^,~,<<,>> are the available operators.
-> except *~* rest all others operators are binary.
+> except ~ rest all others operators are binary.
 > ### & : Bitwise AND 
 > ### / : Bitwise OR
 > ### ^ : Bitwise XOR
