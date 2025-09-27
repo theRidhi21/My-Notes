@@ -1,3 +1,3 @@
 ## For the series
 ### 1,3,6,10,15,21..........
-> we can use *for loop* or these are in the form *(n*(n+1))/2*.
+> we can use *for loop* or these are in the form *(n(n+1))/2*.
