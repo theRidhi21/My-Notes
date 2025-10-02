@@ -107,6 +107,7 @@ the no is 25
     **t++;
     printf("%u\n",ptr);
     printf("%u\n",t);
+    
 **output**
 3730999508
 3730999496
