@@ -81,7 +81,7 @@ int main() { int n;
 
 int square(int* n)
 {
-   *n=(*n)*(*n);
+   *n=(*n) * (*n);
    printf("the sq is %d\n",*n);
 }
 
@@ -91,3 +91,27 @@ enter the number
 the sq is 25
 the no is 25
 #### the value of variable is changed!!!!
+
+
+#### Pointer Arithmatic:
+> if *ptr++,is written then it shifts the memory location by 4 bytes towards right.
+> same goes with *ptr--,shifts 4 places towards left
+#### here *ptr is in int form,so moves by 4;if it is char it moves by only 1.
+*Eg:* **code**
+ int age=22;
+    int *ptr=&age;
+    int **t=&ptr;
+    printf("%u\n",ptr);
+    printf("%u\n",t);
+    *ptr++;
+    **t++;
+    printf("%u\n",ptr);
+    printf("%u\n",t);
+**output**
+3730999508
+3730999496
+3730999512
+3730999504
+
+
+
