@@ -114,5 +114,5 @@ the no is 25
 3730999512
 3730999504
 
-
+## you can pointers for arrys in the same way as for other variables. 
 
