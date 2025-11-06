@@ -1,4 +1,4 @@
-## for (char c : s.toCharArray()) 
+#### for (char c : s.toCharArray()) 
              freq[c - 'a']++;
 It is an in-built function available in java.These lines will do the following changes:
 > Converts the string s into a char[] and iterates over each character c. This is a concise for-each loop.
