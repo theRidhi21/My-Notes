@@ -23,7 +23,7 @@ int a,b,result;
 #### b=~a; // b=-(a+1);
 #### b=-6;
 
-#### << : It shifts the variable positions towards left.
+### << : It shifts the variable positions towards left.
 *Eg:* a=10;
 c = a<<2; a  = 10  
 |  8  |  4  |  2  |  1  |   
@@ -36,7 +36,7 @@ c = a<< 2
 |  1  |  0  |  1  |  0  |  0  |  0  |   c = 40;
 ### in simple format its a*(2^2);
 
-#### >> : It shifts the variable positions towards right.
+### >> : It shifts the variable positions towards right.
 *Eg:* a=10;
 c = a>>2;
 ### in simple format it is a/(2^2);
