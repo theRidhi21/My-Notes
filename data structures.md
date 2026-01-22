@@ -7,4 +7,4 @@ i.e, O(1),O(n),O(n^2),etc...
 
 ##### Classification ->
 1. linear ---- Arrays,Pointers,int,char,double,float,complex
-2. Non-linear ---- 
+2. Non-linear ----  
