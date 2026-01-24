@@ -32,4 +32,18 @@ Non-Lonear DS : Trees and Graphs.
  6. Sorting : Sorting the values in required order.
 
 #### Stacks:
-Works on the principle of "LIFO"
+Works on the principle of "LIFO"(Last in first out) or "FILO"(First in last out).
+Can be accesed in a restricted way.
+###### Operations :
+1. pop() - deletes/pops an element from the stack.
+2. push() - adds/pushes an element to the stack.
+3. peek() - checks the top element of the stack.
+4. isempty() - checks whether the stack is empty or not.
+5. isfull() - checks whether the stack is full or not.
+
+##### Applications :
+1. Reverse of string
+2. Undo and Redo operations
+3. Recursion
+4. to check the balance of paranthesis/brackects
+5. infix to postfix/prefix conversion etc... 
