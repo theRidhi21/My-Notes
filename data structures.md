@@ -31,6 +31,5 @@ Non-Lonear DS : Trees and Graphs.
  5. Traversing : Going through each element from first to last.
  6. Sorting : Sorting the values in required order.
 
-
- 
-
+#### Stacks:
+Works on the principle of "LIFO"
