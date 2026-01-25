@@ -46,4 +46,8 @@ Can be accesed in a restricted way.
 2. Undo and Redo operations
 3. Recursion
 4. to check the balance of paranthesis/brackects
-5. infix to postfix/prefix conversion etc... 
+5. infix to postfix/prefix conversion etc...
+
+#### Linked list :
+Elements are not stored in continuos memory location.
+Drawback of linked list here is, since all the elements are not stored together after every element a "node" is created which stores the address of next element,hence more space is required.
