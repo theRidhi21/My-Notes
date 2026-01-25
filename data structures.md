@@ -51,3 +51,8 @@ Can be accesed in a restricted way.
 #### Linked list :
 Elements are not stored in continuos memory location.
 Drawback of linked list here is, since all the elements are not stored together after every element a "node" is created which stores the address of next element,hence more space is required.
+The last element node contains "null".
+Only sequencial accessing is possible i.e O(n).
+Insertion and deletion is easily.
+Binary search not possible.
+Dynamic allocation.
