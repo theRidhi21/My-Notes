@@ -79,9 +79,9 @@ struct node *previous;
 4. Doubly Circular LL:Has the properties of both doubly and cicular linked list.
 
 #### ARRAYS VS LINKED LISTS : 
-----------------------------------------------------------------
+________________________________________________________________
 ######          ARRAYS             |          LINLED LISTS     |
-----------------------------------------------------------------
+________________________________________________________________
 1. Cost of accessing an element :  |                           |
           O(1)                     |       O(n)                |
 2. Memory utilisation :            |                           |
@@ -96,4 +96,4 @@ struct node *previous;
                                    |                           |
 6. Searching :                     |                           |
      Linear & Binary               |         Only linear       |
-----------------------------------------------------------------
+________________________________________________________________
