@@ -55,3 +55,45 @@ Only sequencial accessing is possible i.e O(n).
 Insertion and deletion is easily.
 Binary search not possible.
 Dynamic allocation.
+
+##### Types : 
+1. Singly LL: Most commonly used LL , it has two parts one contains element and the othe contains the pointer part.
+It has only single list.Can only traverse in forward direction.
+Syntax:
+stuct node{
+int data;
+struct node *next;
+};
+
+2. Doubly LL:It has three parts one element and two parts contains pointers(pointer to its previous node and next node).
+Traversing can be dine from both sides (front and back).
+Syntax:
+struct node {
+int data;
+struct node *next;
+struct node *previous;
+};
+
+3. Circular LL:A variation of singly linked list,here the pointer in the last node contains the address of the first node instead of "null".
+
+4. Doubly Circular LL:Has the properties of both doubly and cicular linked list.
+
+#### ARRAYS VS LINKED LISTS : 
+----------------------------------------------------------------
+######          ARRAYS             |          LINLED LISTS     |
+----------------------------------------------------------------
+1. Cost of accessing an element :  |                           |
+          O(1)                     |       O(n)                |
+2. Memory utilisation :            |                           |
+          in-efficient             |      very efficient       |
+3. Memory Reqiurement :            |                           |
+          less                     |         high              |
+4. Cost of insertion :             |                           |
+                                   |                           |
+--> at begining :    O(n)          |         O(1)              |
+--> in middle :      O(1)          |         O(n)              |
+-->at the end :      O(n)          |         O(n)              |
+                                   |                           |
+6. Searching :                     |                           |
+     Linear & Binary               |         Only linear       |
+----------------------------------------------------------------
