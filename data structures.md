@@ -91,7 +91,7 @@ ________________________________________________________________
 4. Cost of insertion :             |                           |
                                    |                           |
 --> at begining :    O(n)          |         O(1)              |
---> in middle :      O(1)          |         O(n)              |
+--> in middle :      O(1)          |         O(n)              | 
 -->at the end :      O(n)          |         O(n)              |
                                    |                           |
 6. Searching :                     |                           |
