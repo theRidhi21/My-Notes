@@ -1,7 +1,7 @@
 ## Data Structures :
 It is the organising and storing the data in sequential order so that it can be used efficiently(Time complexity and space complexity).
 
-#### Time and space complexity : It is measurement of "how much time or space" occupied by an algorithm.
+#### Time and space complexity : It is measurement of "how much time or space" occupied by an algorithm. 
 ###### Time Complexity : 
 It is very important when consider large or huge data.
 Lower the complexity more efficient is the code
