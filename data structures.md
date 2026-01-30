@@ -92,7 +92,7 @@ ________________________________________________________________
                                    |                           |
 --> at begining :    O(n)          |         O(1)              |
 --> in middle :      O(1)          |         O(n)              | 
--->at the end :      O(n)          |         O(n)              |
+-->at the end :      O(n)          |         O(n)              |    
                                    |                           |
 6. Searching :                     |                           |
      Linear & Binary               |         Only linear       |
