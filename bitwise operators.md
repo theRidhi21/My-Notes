@@ -6,7 +6,7 @@
 > ### ^ : Bitwise XOR
 > ### ~ : Bitwise NOT
 > ### >> : Left Shift 
-> ### << : Right Shift
+> ### << : Right Shift 
 
 int a,b,result;
 |    a    |    b    |   a&b   |   a/b   |   a^b   |   ~a    |    ~b   |
