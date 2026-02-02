@@ -5,7 +5,7 @@
 > ### / : Bitwise OR
 > ### ^ : Bitwise XOR
 > ### ~ : Bitwise NOT
-> ### >> : Left Shift
+> ### >> : Left Shift 
 > ### << : Right Shift
 
 int a,b,result;
