@@ -5,5 +5,5 @@
 >huge community
 >cross platform.
 >large ecosystem.
-print("x"*10); : prints x for 10 times.
+print("x"*10) : prints x for 10 times.
 
