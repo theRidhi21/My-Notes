@@ -18,7 +18,7 @@ Lower the complexity more efficient is the code
 ##### Classification ->
 1. Primitive DS ---- Arrays,Pointers,int,char,double,float,complex
 2. Non-Primitive DS  ----  Linear,Non-linear
-
+   
 Linear DS : Stacks,Queues,Linked list etc...
 Non-Lonear DS : Trees and Graphs.
 
