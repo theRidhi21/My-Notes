@@ -4,7 +4,7 @@
 >high level language.
 >huge community
 >cross platform.
->large ecosystem. 
+>large ecosystem.
 print("x"*10) : prints x for 10 times.
 
 ###### Eg:
