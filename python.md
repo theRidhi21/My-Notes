@@ -16,7 +16,7 @@ print(course[0:3])
 print(course[0:])
 print(course[:3])
 print(course[:])
-
+ 
 ###### Output:
 12
 P
