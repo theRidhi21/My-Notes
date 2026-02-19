@@ -117,6 +117,3 @@ the no is 25
 ## you can use pointers for arrays in the same way as for other variables. 
 hdsfiuerio
 jfbkjdf
-ndfgjbl
-ndfjb
-
