@@ -27,7 +27,7 @@ Pyt
 Python Programming
 
  ##### Escape sequences:
- 1. '\'-backslash:
+ 1. '\'-backslash:   
 eg: course("abc \"def")
 output: abc "def
 2. '#'-hash: for comments.
