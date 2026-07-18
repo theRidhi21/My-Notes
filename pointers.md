@@ -3,7 +3,7 @@
 Short form of *pointers* is "ptr".
 
 **Syntax**:
->'*' is definitely attached while wirting *pointers*.
+>'*' is definitely attached while wirting *pointers*. 
 >int age=22;
 > int *ptr=&age; // the 'ptr' will now store the address of 'age'.
 >int _age = *ptr; //the address stored in ptr is stored in a new variable _age.
